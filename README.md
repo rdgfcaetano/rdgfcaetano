@@ -6,7 +6,7 @@ Atualmente sou estudante de **Sistemas de Informação na UFRRJ** e apaixonado p
 ---
 
 ### 🚀 O que ando realizando?
-* 🎓 Estudando na **UFRRJ** (Orgulho de ser Ruralino!).
+* 🎓 Estudando na **UFRRJ**.
 * 📱 Focando 100% em dominar o desenvolvimento **Mobile**.
 * 💻 Mantendo meu lado **Fullstack** afiado (já brinquei bastante com Java, Spring e MySQL).
 * 🤠 Pronomes: Ele/Dele.
@@ -21,7 +21,7 @@ Atualmente sou estudante de **Sistemas de Informação na UFRRJ** e apaixonado p
 
 ### 📫 Bora trocar uma ideia?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_rodrigofcaetano14@gmail.com)
 
 ---
 
