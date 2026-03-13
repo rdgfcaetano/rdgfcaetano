@@ -1,7 +1,7 @@
 
 # Oi, eu sou o Rodrigo Caetano! 👋
 
-Atualmente sou estudante de **Sistemas de Informação na UFRRJ** e apaixonado por transformar ideias em código. Embora eu tenha uma base **Fullstack**, meu brilho nos olhos hoje está no mundo **Mobile**! 📱
+Atualmente sou estudante de **Sistemas de Informação na UFRRJ**. Embora eu tenha uma base **Fullstack**, meu brilho nos olhos hoje está no desenvolvimento **Mobile**!
 
 ---
 
