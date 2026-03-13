@@ -1,11 +1,3 @@
-# Hello, I'm Rodrigo Caetano 👋
-### Software Engineer | Fullstack & Mobile Developer
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=006400&height=200&section=header&text=Rodrigo%20Caetano&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Sistemas%20de%20Informa%C3%A7%C3%A3o%20@%20UFRRJ&descAlignY=62" width="100%">
-</p>
-
----
 
 # Oi, eu sou o Rodrigo Caetano! 👋
 
