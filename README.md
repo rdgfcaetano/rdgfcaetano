@@ -8,7 +8,7 @@ Sou estudante de **Sistemas de Informação na UFRRJ** e desenvolvedor. Minha tr
 ### 🚀 Perfil & Atuação
 * 🎓 Graduando em **Sistemas de Informação** na **UFRRJ**.
 * 🛠️ **Abordagem Resolutiva:** Experiência no ciclo completo de software, o que me dá facilidade para identificar a causa raiz de falhas (logs, banco de dados, integrações e erros de tela).
-* 📋 **Processos e Qualidade:** Habituado com metodologias ágeis, mapeamento de fluxos de trabalho, regras de negócio e garantia de documentação sempre atualizada[cite: 1].
+* 📋 **Processos e Qualidade:** Habituado com metodologias ágeis, mapeamento de fluxos de trabalho, regras de negócio e garantia de documentação sempre atualizada.
 * 🤠 Pronomes: Ele/Dele.
 
 ---
@@ -20,9 +20,9 @@ Sou estudante de **Sistemas de Informação na UFRRJ** e desenvolvedor. Minha tr
 ---
 
 ### 💼 Diferenciais para Suporte de TI & Desenvolvimento
-* **Análise de Erros e Logs:** Facilidade para debugar problemas técnicos e validar o comportamento de aplicações frente a critérios de aceitação[cite: 1].
-* **Banco de Dados (SQL):** Capacidade de analisar dados e estruturas para identificar inconsistências diretamente na persistência da aplicação[cite: 1].
-* **Comunicação Técnica:** Habilidade em traduzir problemas técnicos complexos de forma clara para o usuário final ou para equipes de desenvolvimento[cite: 1].
+* **Análise de Erros e Logs:** Facilidade para debugar problemas técnicos e validar o comportamento de aplicações frente a critérios de aceitação.
+* **Banco de Dados (SQL):** Capacidade de analisar dados e estruturas para identificar inconsistências diretamente na persistência da aplicação.
+* **Comunicação Técnica:** Habilidade em traduzir problemas técnicos complexos de forma clara para o usuário final ou para equipes de desenvolvimento.
 
 ---
 
