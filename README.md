@@ -22,12 +22,12 @@ Sou estudante de **Sistemas de Informação na UFRRJ** e desenvolvedor. Minha tr
 ### 💼 Diferenciais para Suporte de TI & Desenvolvimento
 * **Análise de Erros e Logs:** Facilidade para debugar problemas técnicos e validar o comportamento de aplicações frente a critérios de aceitação.
 * **Banco de Dados (SQL):** Capacidade de analisar dados e estruturas para identificar inconsistências diretamente na persistência da aplicação.
-* **Comunicação Técnica:** Habilidade em traduzir problemas técnicos complexos de forma clara para o usuário final ou para equipes de desenvolvimento.
+* **Comunicação Técnico-Comercial:** Habilidade em traduzir problemas complexos de forma clara para usuários finais, gerentes de projetos ou outros desenvolvedores.
 
 ---
 
 ### 📫 Bora trocar uma ideia?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINK_DO_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-caetano-ba64b6367/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigofcaetano14@gmail.com)
 
 ---
